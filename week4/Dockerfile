@@ -1,4 +1,4 @@
-FROM rust:1.75 AS builder
+FROM rust:1.57 AS builder
 
 # Set the working directory
 WORKDIR /usr/src/week4
