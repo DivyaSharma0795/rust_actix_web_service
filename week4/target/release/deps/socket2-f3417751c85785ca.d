@@ -1,0 +1,11 @@
+C:\Users\divya\Documents\Duke\MIDS\Semester 2\Cloud\ds655_wk04\week4\target\release\deps\libsocket2-f3417751c85785ca.rmeta: C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\lib.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sockaddr.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\socket.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sockref.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sys\windows.rs
+
+C:\Users\divya\Documents\Duke\MIDS\Semester 2\Cloud\ds655_wk04\week4\target\release\deps\libsocket2-f3417751c85785ca.rlib: C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\lib.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sockaddr.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\socket.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sockref.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sys\windows.rs
+
+C:\Users\divya\Documents\Duke\MIDS\Semester 2\Cloud\ds655_wk04\week4\target\release\deps\socket2-f3417751c85785ca.d: C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\lib.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sockaddr.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\socket.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sockref.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sys\windows.rs
+
+C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\lib.rs:
+C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sockaddr.rs:
+C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\socket.rs:
+C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sockref.rs:
+C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.5.6\src\sys\windows.rs:
