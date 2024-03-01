@@ -1,7 +1,7 @@
 FROM rust:1.75 AS builder
 
 # Set the working directory
-WORKDIR /usr/src/week4
+WORKDIR /usr/src/week4_us26
 
 # Change the user to root
 USER root

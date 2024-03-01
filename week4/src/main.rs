@@ -5,7 +5,11 @@ use rand::seq::SliceRandom;
 async fn index() -> impl Responder {
     let messages = vec![
         "Week 4 Mini Project: Actix-Web with Docker",
+        "Hello, there!",
+        "Welcome to the Oliver's website!",
         "Actix-Web and Docker make a great combination!",
+        "Have a fantastic day!",
+        "Explore the power of Rust programming language!",
         "Coding is an art, and you're the artist!",
         "The journey of a thousand miles begins with a single keystroke.",
         "In Rust we trust!",
