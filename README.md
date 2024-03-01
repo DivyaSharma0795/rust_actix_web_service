@@ -53,10 +53,6 @@ After building the Docker image, run the container using the following command:
     docker build -t week4 .
 ![Screenshot](screenshots/1.png)
 
-    docker run -p 8080:8080 week4
-![Screenshot](screenshots/2.png)
-
-![Screenshot](screenshots/3.png)
 
     http://localhost:8080 in your web browser.
 ![Screenshot](screenshots/4.png)
