@@ -51,7 +51,7 @@ After building the Docker image, run the container using the following command:
 
 ### Results
     docker build -t week4 .
-![Screenshot](screenshots/1.png)
+![Screenshot](screenshots/1.png.png)
 
 
     http://localhost:8080 in your web browser.
