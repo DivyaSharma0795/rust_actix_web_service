@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Factorial Web App</title>
+</head>
+<body>
+    <h1>Factorial of 5: <span id="factorial"></span></h1>
+    <script>
+        async function getFactorial() {
+            const response = await fetch("/");
+            const text = await response.text();
+            document.getElementById("factorial").innerText = text;
+        }
+        getFactorial();
+    </script>
+</body>
+</html>

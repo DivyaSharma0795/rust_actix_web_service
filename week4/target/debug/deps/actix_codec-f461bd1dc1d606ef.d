@@ -1,0 +1,10 @@
+C:\Users\divya\OneDrive\Documents\Duke\MIDS\Semester 2\Cloud\ds655_ids721_miniproject04\week4\target\debug\deps\libactix_codec-f461bd1dc1d606ef.rmeta: C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.2\src\lib.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.2\src\bcodec.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.2\src\framed.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.2\src\lines.rs
+
+C:\Users\divya\OneDrive\Documents\Duke\MIDS\Semester 2\Cloud\ds655_ids721_miniproject04\week4\target\debug\deps\libactix_codec-f461bd1dc1d606ef.rlib: C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.2\src\lib.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.2\src\bcodec.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.2\src\framed.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.2\src\lines.rs
+
+C:\Users\divya\OneDrive\Documents\Duke\MIDS\Semester 2\Cloud\ds655_ids721_miniproject04\week4\target\debug\deps\actix_codec-f461bd1dc1d606ef.d: C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.2\src\lib.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.2\src\bcodec.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.2\src\framed.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.2\src\lines.rs
+
+C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.2\src\lib.rs:
+C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.2\src\bcodec.rs:
+C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.2\src\framed.rs:
+C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-codec-0.5.2\src\lines.rs:

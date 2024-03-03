@@ -1,0 +1,8 @@
+C:\Users\divya\OneDrive\Documents\Duke\MIDS\Semester 2\Cloud\ds655_ids721_miniproject04\week4\target\debug\deps\libencoding_index_tradchinese-5f289c3cd35d3d69.rmeta: C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\encoding-index-tradchinese-1.20141219.5\lib.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\encoding-index-tradchinese-1.20141219.5\big5.rs
+
+C:\Users\divya\OneDrive\Documents\Duke\MIDS\Semester 2\Cloud\ds655_ids721_miniproject04\week4\target\debug\deps\libencoding_index_tradchinese-5f289c3cd35d3d69.rlib: C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\encoding-index-tradchinese-1.20141219.5\lib.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\encoding-index-tradchinese-1.20141219.5\big5.rs
+
+C:\Users\divya\OneDrive\Documents\Duke\MIDS\Semester 2\Cloud\ds655_ids721_miniproject04\week4\target\debug\deps\encoding_index_tradchinese-5f289c3cd35d3d69.d: C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\encoding-index-tradchinese-1.20141219.5\lib.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\encoding-index-tradchinese-1.20141219.5\big5.rs
+
+C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\encoding-index-tradchinese-1.20141219.5\lib.rs:
+C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\encoding-index-tradchinese-1.20141219.5\big5.rs:

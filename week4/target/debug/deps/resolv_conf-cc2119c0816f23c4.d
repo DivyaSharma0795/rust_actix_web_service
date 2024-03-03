@@ -1,0 +1,10 @@
+C:\Users\divya\OneDrive\Documents\Duke\MIDS\Semester 2\Cloud\ds655_ids721_miniproject04\week4\target\debug\deps\libresolv_conf-cc2119c0816f23c4.rmeta: C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resolv-conf-0.6.3\src/lib.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resolv-conf-0.6.3\src\grammar.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resolv-conf-0.6.3\src\ip.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resolv-conf-0.6.3\src\config.rs
+
+C:\Users\divya\OneDrive\Documents\Duke\MIDS\Semester 2\Cloud\ds655_ids721_miniproject04\week4\target\debug\deps\libresolv_conf-cc2119c0816f23c4.rlib: C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resolv-conf-0.6.3\src/lib.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resolv-conf-0.6.3\src\grammar.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resolv-conf-0.6.3\src\ip.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resolv-conf-0.6.3\src\config.rs
+
+C:\Users\divya\OneDrive\Documents\Duke\MIDS\Semester 2\Cloud\ds655_ids721_miniproject04\week4\target\debug\deps\resolv_conf-cc2119c0816f23c4.d: C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resolv-conf-0.6.3\src/lib.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resolv-conf-0.6.3\src\grammar.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resolv-conf-0.6.3\src\ip.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resolv-conf-0.6.3\src\config.rs
+
+C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resolv-conf-0.6.3\src/lib.rs:
+C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resolv-conf-0.6.3\src\grammar.rs:
+C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resolv-conf-0.6.3\src\ip.rs:
+C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\resolv-conf-0.6.3\src\config.rs:

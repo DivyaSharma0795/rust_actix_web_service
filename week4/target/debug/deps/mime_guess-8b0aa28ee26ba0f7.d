@@ -1,0 +1,12 @@
+C:\Users\divya\OneDrive\Documents\Duke\MIDS\Semester 2\Cloud\ds655_ids721_miniproject04\week4\target\debug\deps\libmime_guess-8b0aa28ee26ba0f7.rmeta: C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mime_guess-2.0.4\src\lib.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mime_guess-2.0.4\src\impl_bin_search.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mime_guess-2.0.4\src\mime_types.rs C:\Users\divya\OneDrive\Documents\Duke\MIDS\Semester\ 2\Cloud\ds655_ids721_miniproject04\week4\target\debug\build\mime_guess-c3966a836f37111c\out/mime_types_generated.rs
+
+C:\Users\divya\OneDrive\Documents\Duke\MIDS\Semester 2\Cloud\ds655_ids721_miniproject04\week4\target\debug\deps\libmime_guess-8b0aa28ee26ba0f7.rlib: C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mime_guess-2.0.4\src\lib.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mime_guess-2.0.4\src\impl_bin_search.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mime_guess-2.0.4\src\mime_types.rs C:\Users\divya\OneDrive\Documents\Duke\MIDS\Semester\ 2\Cloud\ds655_ids721_miniproject04\week4\target\debug\build\mime_guess-c3966a836f37111c\out/mime_types_generated.rs
+
+C:\Users\divya\OneDrive\Documents\Duke\MIDS\Semester 2\Cloud\ds655_ids721_miniproject04\week4\target\debug\deps\mime_guess-8b0aa28ee26ba0f7.d: C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mime_guess-2.0.4\src\lib.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mime_guess-2.0.4\src\impl_bin_search.rs C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mime_guess-2.0.4\src\mime_types.rs C:\Users\divya\OneDrive\Documents\Duke\MIDS\Semester\ 2\Cloud\ds655_ids721_miniproject04\week4\target\debug\build\mime_guess-c3966a836f37111c\out/mime_types_generated.rs
+
+C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mime_guess-2.0.4\src\lib.rs:
+C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mime_guess-2.0.4\src\impl_bin_search.rs:
+C:\Users\divya\.cargo\registry\src\index.crates.io-6f17d22bba15001f\mime_guess-2.0.4\src\mime_types.rs:
+C:\Users\divya\OneDrive\Documents\Duke\MIDS\Semester\ 2\Cloud\ds655_ids721_miniproject04\week4\target\debug\build\mime_guess-c3966a836f37111c\out/mime_types_generated.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\divya\\OneDrive\\Documents\\Duke\\MIDS\\Semester 2\\Cloud\\ds655_ids721_miniproject04\\week4\\target\\debug\\build\\mime_guess-c3966a836f37111c\\out
