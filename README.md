@@ -49,9 +49,32 @@ After building the Docker image, run the container using the following command:
 10 - Access the Actix web service by navigating to http://localhost:8080/number in your web browser, replacing `number` with the number you want to calculate the factorial of.
 
 ### Results
+
+Compiling the Rust code
+```
+cargo build
+```
+
+![Screenshot](screenshots/2.png)
+
+
+
+Building the Docker image:
+```
     docker build -t week4 .
+```
 ![Screenshot](screenshots/1.png.png)
 
+Docker Image on local Dockerhub
 
-    http://localhost:8080/number in your web browser.
-![Screenshot](screenshots/4.png)
+![Screenshot](screenshots/3.png)
+
+
+Deployment:
+
+Run `http://localhost:8080/{number}` in your web browser.
+
+![Working Image](screenshots/Screenshot 2024-02-29 012604.png)
+
+![Working Image 2](screenshots/Screenshot 2024-03-29 012433.png)
+
