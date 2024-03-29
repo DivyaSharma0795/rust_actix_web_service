@@ -1,4 +1,4 @@
-use actix_web::{web, App, HttpServer, HttpResponse};
+use actix_web::{web, App, HttpServer, HttpResponse, Responder};
 use std::sync::Mutex;
 
 struct AppState {
@@ -12,11 +12,13 @@ fn factorial(n: i32) -> i32 {
     n * factorial(n - 1)
 }
 
-async fn index(data: web::Data<AppState>) -> HttpResponse {
+async fn index(data: web::Data<AppState>, num: web::Path<i32>) -> impl Responder {
     let mut counter = data.counter.lock().unwrap();
     *counter += 1;
 
-    HttpResponse::Ok().body(format!("Factorial of 5: {}", factorial(5)))
+    let num = num.into_inner();
+
+    HttpResponse::Ok().body(format!("Factorial of {}: {}", num, factorial(num)))
 }
 
 #[actix_web::main]
@@ -28,7 +30,7 @@ async fn main() -> std::io::Result<()> {
     HttpServer::new(move || {
         App::new()
             .app_data(app_state.clone())
-            .route("/", web::get().to(index))
+            .route("/{num}", web::get().to(index))
     })
     .bind("127.0.0.1:8080")?
     .run()
