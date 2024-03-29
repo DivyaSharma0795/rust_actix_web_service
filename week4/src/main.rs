@@ -1,10 +1,6 @@
 use actix_web::{web, App, HttpServer, HttpResponse, Responder};
 use std::sync::Mutex;
 
-struct AppState {
-    counter: Mutex<i32>,
-}
-
 fn factorial(n: i32) -> i32 {
     if n <= 1 {
         return 1;

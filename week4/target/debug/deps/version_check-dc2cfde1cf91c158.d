@@ -1,0 +1,10 @@
+/Users/udyansachdev/Downloads/us26-week4/week4_us26/target/debug/deps/libversion_check-dc2cfde1cf91c158.rmeta: /Users/udyansachdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/lib.rs /Users/udyansachdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/version.rs /Users/udyansachdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/channel.rs /Users/udyansachdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/date.rs
+
+/Users/udyansachdev/Downloads/us26-week4/week4_us26/target/debug/deps/libversion_check-dc2cfde1cf91c158.rlib: /Users/udyansachdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/lib.rs /Users/udyansachdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/version.rs /Users/udyansachdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/channel.rs /Users/udyansachdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/date.rs
+
+/Users/udyansachdev/Downloads/us26-week4/week4_us26/target/debug/deps/version_check-dc2cfde1cf91c158.d: /Users/udyansachdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/lib.rs /Users/udyansachdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/version.rs /Users/udyansachdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/channel.rs /Users/udyansachdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/date.rs
+
+/Users/udyansachdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/lib.rs:
+/Users/udyansachdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/version.rs:
+/Users/udyansachdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/channel.rs:
+/Users/udyansachdev/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/date.rs:

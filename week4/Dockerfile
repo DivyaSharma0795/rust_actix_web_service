@@ -10,7 +10,7 @@ USER root
 COPY . .
 
 # Build the project
-RUN cargo build --release
+# RUN cargo run
 
 # Expose port 8080
 EXPOSE 8080
