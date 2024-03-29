@@ -2,7 +2,7 @@
 
 ### Creating a Docker Container for a Rust Actix Web Service
 
-The objective of this project is to encapsulate a Rust Actix web service in a Docker container. This web service generates a random message each time the page is refreshed.
+The objective of this project is to encapsulate a Rust Actix web service in a Docker container. This web service calculates the factorial of a number provided in the URL.
 
 ### Packages and Dependencies
 To install Docker:
@@ -46,13 +46,12 @@ After building the Docker image, run the container using the following command:
 
     docker run -p 8080:8080 week4
 
-10 - Access the Actix web service by navigating to http://localhost:8080 in your web browser.
-
+10 - Access the Actix web service by navigating to http://localhost:8080/number in your web browser, replacing `number` with the number you want to calculate the factorial of.
 
 ### Results
     docker build -t week4 .
 ![Screenshot](screenshots/1.png.png)
 
 
-    http://localhost:8080 in your web browser.
+    http://localhost:8080/number in your web browser.
 ![Screenshot](screenshots/4.png)
